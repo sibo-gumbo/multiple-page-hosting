@@ -1,0 +1,14 @@
+h1,
+p,
+footer {
+  text-align: center;
+}
+img {
+  max-width: 70%;
+  border-radius: 10px;
+  margin: 20px auto;
+  display: block;
+}
+footer a {
+  margin: 0 10px;
+}
