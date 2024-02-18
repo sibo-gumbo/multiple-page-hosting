@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: palegoldenrod;
   font-family: Arial, Helvetica, sans-serif;
 }
 h1,
@@ -15,4 +15,5 @@ img {
 }
 footer a {
   margin: 0 10px;
+  color: blueviolet;
 }
